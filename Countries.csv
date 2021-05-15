@@ -1,0 +1,14 @@
+Country Code,Country Name,Parent
+US,US,AMER
+CA,Canada,AMER
+MX,Mexico,AMER
+BR,Brazil,AMER
+GB,UK,EMEA
+FR,France,EMEA
+ES,Spain,EMEA
+DE,Germany,EMEA
+IT,Italy,EMEA
+AU,Australia,APAC
+NZ,New Zealand,APAC
+IN,India,APAC
+JP,Japan,APAC
